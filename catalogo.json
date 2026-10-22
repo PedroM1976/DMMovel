@@ -1,0 +1,3585 @@
+{
+  "versao": 1,
+  "artigos": [
+    {
+      "codigo": "22-10111000039",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000105",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000287",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10112000029",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-109906010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-241223230",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-241323230",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022405",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-999070",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-1217L",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N002",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N510",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N620D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C412C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FU115",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-RI11B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "SGPU-LIG",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-TPF4",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-10597",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1414",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1415",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1470",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1683",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-24686",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-29743",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0277J97A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "RAPPEL NACIONAL",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH572AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "04-PARAFUSOS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000042",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10112000028",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010025821",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-999060",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-1521",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "PORTES",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4026340",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031587",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "DESLOC",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "MO",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N601D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N635S",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010034285",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N919D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000290",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000425",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000428",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106301000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106301500",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106302000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106302500",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106303000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106303500",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106304000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-106304500",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10630500",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108400510",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108401010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108401510",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108402010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108402510",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108403010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108403510",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108404010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108405010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-149972",
+      "foto": false,
+      "pdf": true
+    },
+    {
+      "codigo": "22-240152324",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-241423064",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010023060",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010025822",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-999080",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-BSLP5.5A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3600",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C0733",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FU113",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-PT002",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-RI10",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-RI13",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-52548",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-108404510",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB581APE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-3-07808A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N107D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9802",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N445D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-eak0469j94a",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3078",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "CONTRATOS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N507D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N018D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022407",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N025",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000041",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-32321",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "VENDAS MERC.",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4030319",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N200D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWBT780",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWT10GP20",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWT10MP20",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "SPECS SNAP-ON",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWAEU544TH5",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022401",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N018F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWIT50TS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-eak0317g20a",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-36275",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-36421",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031436",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0394G93A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99ALINHAR",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N008F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N306D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "CEDENCIA INSTAL",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-04546",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-12600",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-67684",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-9530020",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-9530040",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31248",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-28525",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-29281",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-50988",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N510B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029907",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-DM5114",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010025837",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N103D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N470AD",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31925",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-eaK0341G32A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022409",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-86055",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-51165",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000157",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-24015161",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C9586",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB575AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C8415",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C9587",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-26424",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30920",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028535",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0376G85A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAW0235J82B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031030",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "14-2002989",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R113",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N441",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-150400800",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30924",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-UP45LT/I",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N004",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N690DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWI70TS-II",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-RFT HELPER",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-TC2026NORMAL",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-VL-65LXPRE+",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-6027703",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB574APE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH571AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAP0276G50A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-13763",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N609S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0317G33A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-26426",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-26427",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N704D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "06-5010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-06571",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-06572",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-09154",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N030F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31669",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0425G42A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0481G23A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAW0286G08A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-15609",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-51160",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25323",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-24847",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99EQUILIBRAR",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4027007",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N026D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4030929",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWAEU543TH3",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH572AE6",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-5626",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "04-UM115",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000043",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000288",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-09193",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10112000061",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4026608",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB581AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWAEU552H3",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N102D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25517",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031303",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99DESMONTAR",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N307",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4026401",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C0941",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "06-LVLPCBL7191",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4026853",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB578APE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N902D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-590906",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-590914",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-591132",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-591134",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0306G19A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99ELEVADORFAIP",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25218",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N602HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-51167",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0317G36A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N301AD",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "03-4185",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N601AS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0277J97AC",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N446D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F80806TBM50V",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0310",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0353",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-A0985",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-15692",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-18759",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-82252",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-82280",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "24-SLT2900AM",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-15630",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N105D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N442",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N620S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-13409",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4027747",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AL007.15",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AM004.15",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-MR3.0",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-TP4.0TOPM",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-eaw0282g16a",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000040",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "03-P303EB",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N441DH",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-7564",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N590D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-D1230",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029108",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601778XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601784XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601804EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-8003",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000426",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-590916",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-590918",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWAEU542TH3",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N618HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AC010",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AM005",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0371G41A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-06974",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-1341",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C2123",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FC02",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25709",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R507",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R173D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "AD",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010320084XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-021118",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-925T",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N1025DF",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029196",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWI80TS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB576APE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N471D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0116J34A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0129J90A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-51263",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1684",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601751XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601758EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601780XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601847EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30926",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0377G02A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-34884",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-110.003.122",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "05-TRUCKDIDO",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65606SSI25V",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-4010025002",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350400XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350479XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0317G12A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-240151321",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-14648",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-16103",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0306G26A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N300",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6560GRMB50Q",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-83960",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-7800000SSR",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000156",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-53488",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-15181",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25673",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-65165108HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-20101",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4017159",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028966",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N024D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-72588",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9805",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-21409",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031031",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4031462",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-7395",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4030614",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N1029F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-6-01429A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0394G27A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAP0290G40A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028648",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-WO1220",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0381J13AR",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-65102",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "REP",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-1890",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-82385",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-83932",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N108D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N470D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0334J92AT",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB576AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0352",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31069",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "9EQUILIBRAR2257",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-09111",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10585",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-26648",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9815",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0375G48A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350033XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350039XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350041XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350282XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350284XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350381XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350382XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-X0960",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FOXTS50005",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30921",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0469J23E",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R445D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R473D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "06-LVLPCS131",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH573AE9",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10586",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10588",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-65103",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0133V01A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N607DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-61-0050",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N945D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-LVBG1210D024",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N933D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N602D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9818",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10532",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-28466",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-62100",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-69002",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-83200",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-52546",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N630S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K000R646",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R100B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-28797",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0409G92A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010330001XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010330008XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K000R307",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F8080MKQM30I",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F9080MKQM44I",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-BSLP3.5A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAP0271G60C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10753",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAM0079G93A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010320026XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4025313",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-09279",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-83880",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-BS5.5A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4007436",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AL006",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-UP45-011",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R444D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R307D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-153005000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-153010000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028728",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0320J78B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-07111",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-4496",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N905DA",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB774APE8",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH762BE4",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-61-0045",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-51175",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0320J33A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-EL3.2",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350478XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-ACTRHP",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-ACTRLP",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HTL2840",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH596AEB",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C1477D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-XTTS100M",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB574AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH571AE6",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-2-64848A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-10374",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-55590",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-71063",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-71952",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-72012",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-72025",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-67685",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-71277",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-71279",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R620S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-DM5112",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-54038",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-13256",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-71953",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-82300",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R905DA",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6560GRBM62M",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0458G39A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-29745",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028183",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HTL3840",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH572AEM",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30002",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N610A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HPL2027",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9881",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0334J89AT",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWAEU580A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9859",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0378G69A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605DSI45F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWH795AEB",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F34367",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65505DBM55D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605DBM55D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605LSI55K",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605SSI55K",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605TBM65D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F8080KMSI43W",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F9080KMSI50W",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "04-ANILHAS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HXL6755WX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-52542",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R026D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-13913",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-15477",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-23608",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R441D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FC01",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N303D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R919D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-2000608872",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F8523PPP1672",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N730D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-52525",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-24180",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "9DESMONTAR2257",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAM0081G42A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10111000424",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HA-V58",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HFL4145",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F8590MUQM18N",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F9590MUQM18N",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-72015",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-82323",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-12531",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-12533",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-13710",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-13713",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4024675",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N639",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65605DSI47D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N509B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-72580",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-153015000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-A3039",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9810",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0268J41C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9810MO",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "44-126695205120",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "46-RX106154100",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "46-RX106155114",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "46-RX1075175108",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "51-8009205112",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-3-99426AP1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022429",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0363J88A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99BOOM",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-09340",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R105D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EETDEU904A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-JUMBO3DSUPER",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R730DA",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB578APE5",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31671",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6560ZHHS25E",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0350J99A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-34452",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F65505TGB65D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "47-86210215130",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "51-19485195112",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "51-19495195112",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25091",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-6027939",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-4000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350281XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-89207 1R",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-26582",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R618HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0439G83A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-24204",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "03-P 152C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-16984",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25674",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "17-0313-10-123",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601695EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AK009",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F9020SMBM35W",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N632DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-15632",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N595D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350286XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4024933",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-8-18514A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0334",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029144",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-20985",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-30923",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31338",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-31339",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4024838",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0372G24A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0334J21A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0350J80B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0400J55A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "06-L1368",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "09-PCMAQUBE9",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-51230",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022450",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HC85201T",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0110",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9807",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N1020F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N445DF",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N643D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N647DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FR100",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6550ZHHS25E",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6560WFGB45G",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-25665",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-28115",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-28127",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-29742",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4028801",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0558G90A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0558G91A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAE0049J96A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAK0279G86A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-eak0320j94c",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAP0290G00A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "04-B03",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-86083",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0377G99A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "29-3090885",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3438",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3441",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3446",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9018",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9047",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N708D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R330D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R613S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-C4100",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-AN003",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "42-KWB900",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "42-KWB950",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6550ZHHS40G",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F8521ECGB40F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-29455",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0105J93A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAW0290J56A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "09-120790",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601656XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601707XX",
+      "foto": true,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601721EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "24-SLT3211BM",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HML1000",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HXL6535",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-3053",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-4753",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-4825",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N307D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N594D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N905DH",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N921D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K000R943",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R602DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R919DS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-VL18",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F7070NOGB51M",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99ALINHAR1357",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99DESMONTAR0025",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99EQULIBRAR3073",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-33341",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-35208",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4030479",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0090J07A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0100G92A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0100G93A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAC0133V02A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-UP35/RL",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350279XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350302XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-10112000030",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-143100",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-44030507313",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-WO2015CQS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HXL6955WX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N027D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R130R",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R312D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R507D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R604D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-BP817S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99ALINHAR0845",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-6154100HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "venda viaturas",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-04010023059",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-04010025014",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-BPC815",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R160C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-28004801002",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-33710052259",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "25-HTL2440B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R615S",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R200D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601824EX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EEWB573AE1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022425",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "22-401022448",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4024784",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N1018F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R446D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-FWT2000WF",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K0R602HS",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "43-F6550ZHHS40C",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0255",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "36-FU299",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029735",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4030757",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350329XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350038XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "08-PCL.62707",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-4451",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N922D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "02-UP35",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "37-110.003.061",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "SUCATA",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "30-0330",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-6709TORX-T25",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-6709TORX-T27",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-6709TORX-T30",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-B219.014",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-B219.045",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-B219.210",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-S61SL",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "33-9376",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "40-IC-IW1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "99ALINHAR1352",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R021D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K000R102",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350379XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010350380XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0361J52B1",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "24-15107",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "24-35553",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601778xx",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R705D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N1037F",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-FPA5.5",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "28-GT-RJ3P",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-R78K00R610B",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029502",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N702DA",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4026235",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "13-1010601928XX",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-14144",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N430",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "34-N604D",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-EAA0439G18A",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "41-X0845",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4029323",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-32048",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-4025004",
+      "foto": false,
+      "pdf": false
+    },
+    {
+      "codigo": "01-7040229",
+      "foto": false,
+      "pdf": false
+    }
+  ]
+}
